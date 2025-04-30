@@ -5,8 +5,7 @@ I'll complete the code and provide the required output format in English.
 **Name**
 Simple Monad Testnet Faucet Claimer
 
-**Email**
-your-email@example.com
+
 
 
 **Briefly explain the project**
